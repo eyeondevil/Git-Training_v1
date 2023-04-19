@@ -1,3 +1,3 @@
 # This is testing for merging the file with the master branch
 
-This is for testing the git RESET & REVERT
+GIT REVERT COMMIT 2
